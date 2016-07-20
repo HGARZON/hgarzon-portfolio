@@ -41,6 +41,10 @@ padding: 5px;
 #skills-left { display: block; float: left; margin-right: 30px; }
 #skills-right { display: block; float: left;}
 
+/** @group skills images **/
+.scoring.images { text-align: center; margin: 40px 0; padding: 5px; }
+.scoring.images img { display:block; margin: 20px auto; }
+
 /** @group clearfix **/
 .clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 .clearfix { display: inline-block; }
